@@ -1,0 +1,38 @@
+{
+  "name": "cordova-plugin-music-controls",
+  "version": "1.4.1",
+  "description": "Music controls for Cordova apps",
+  "cordova": {
+    "id": "cordova-plugin-music-controls",
+    "platforms": [
+      "android",
+      "iOS"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliendb/CordovaMusicControlsPluginIOSANDROID.git"
+  },
+  "keywords": [
+    "cordova",
+    "music",
+    "controller",
+    "controls",
+    "media",
+    "plugin",
+    "notification",
+    "ecosystem:cordova"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "author": "homerours - edit by DB",
+  "license": "MIT",
+  "bugs": {
+    "url": " "
+  },
+  "homepage": " "
+}
