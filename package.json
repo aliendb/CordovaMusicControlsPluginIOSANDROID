@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-music-controls",
+  "name": "aliendb.cordova-plugin-music-controls",
   "version": "1.4.1",
   "description": "Music controls for Cordova apps",
   "cordova": {
-    "id": "cordova-plugin-music-controls",
+    "id": "aliendb.cordova-plugin-music-controls",
     "platforms": [
       "android",
       "iOS"
